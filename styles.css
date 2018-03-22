@@ -60,6 +60,10 @@ p{
     padding: .75em;
 }
 
+footer{
+    border-top: darkblue dotted;
+}
+
 #christmas{
     color: darkgreen;
     
